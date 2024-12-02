@@ -1,0 +1,5 @@
+[siemens]
+address = 10.0.0.1:80
+
+[exporter]
+port = 8080
